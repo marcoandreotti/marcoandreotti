@@ -5,7 +5,7 @@
 ---
 
 ## 📌 Sobre mim
-🎓 Acadêmico cursando **Análise e Desenvolvimento de Sistemas** na [Cruzeiro do Sul](https://www.cruzeirodosul.edu.br)  
+🎓 Acadêmico cursando **TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na [Cruzeiro do Sul](https://www.cruzeirodosul.edu.br)  
 💻 Desenvolvedor apaixonado por **.NET, Arquitetura de Software, SOLID e Clean Code**  
 🚀 Experiência com **ERP, Portais Corporativos, APIs REST, DDD, CQRS**  
 ☁️ Trabalhando com **Azure, AKS, Service Bus, Docker**  
