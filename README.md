@@ -163,34 +163,105 @@ Meu interesse está na aplicação prática de **IA Generativa ao ciclo de desen
 
 ---
 
-## 🚀 Projetos & Experiências
 
-### 🛒 Plataforma de E-Procurement
+## 🚀 Meus Projetos em Destaque
 
-Desenvolvimento de solução corporativa voltada à gestão de cotações, compras, pedidos e relacionamento com fornecedores.
+Além da experiência profissional, mantenho projetos próprios
+voltados ao aprendizado, à experimentação arquitetural e à
+aplicação prática de tecnologias.
 
-**Principais desafios:**
-- Modelagem de processos de negócio.
-- Integração entre diferentes sistemas.
-- Desenvolvimento de funcionalidades corporativas.
-- Evolução e manutenção da solução.
+### 🧠 Brucutu Escova Bits
 
-### 🚌 Integração de Sistemas Logísticos
+**Engenharia de Software | Educação | Open Source**
 
-Participação no desenvolvimento de soluções para integração de sistemas de transporte rodoviário e gestão de encomendas.
+O Brucutu Lava Bits é um portfólio educacional open source
+sobre engenharia de software, escrito em português brasileiro.
 
-**Principais desafios:**
-- Integração entre plataformas.
-- Comunicação entre sistemas corporativos.
-- Desenvolvimento de APIs e serviços.
-- Tratamento de processos logísticos.
+Seu propósito é compartilhar conhecimento, consolidar
+fundamentos e aprofundar conceitos de desenvolvimento.
 
-### 🏗️ Arquitetura e Modernização de Sistemas
+🔗 [Conhecer o Brucutu](https://github.com/marcoandreotti/BrucutuEscovaBits)
 
-Experiência na evolução de aplicações empresariais, com foco em organização arquitetural, integração com sistemas legados e melhoria da sustentabilidade das soluções.
+---
 
-**Tecnologias e práticas:**
-.NET, C#, DDD, CQRS, Clean Architecture, EF Core, Dapper, Oracle e Docker.
+### 🍔 zFome
+
+**Desenvolvimento de Software | Organização do Conhecimento**
+
+Projeto próprio de desenvolvimento de software, integrado
+a um processo estruturado de documentação e organização
+do conhecimento.
+
+O **Obsidian funciona como o cérebro do projeto**,
+centralizando informações, estudos, decisões técnicas
+e documentação.
+
+A proposta é aproximar desenvolvimento prático,
+conhecimento organizado e evolução contínua.
+
+🔗 [Conhecer o zFome](https://github.com/marcoandreotti/zFome)
+
+---
+
+### 💰 zFinanças
+
+**Finanças Pessoais | Desenvolvimento de Aplicações**
+
+Projeto de controle financeiro pessoal, voltado à
+aplicação prática de conhecimentos de desenvolvimento
+de software.
+
+Faz parte do meu portfólio de projetos independentes,
+permitindo explorar soluções, organização de código
+e evolução de funcionalidades.
+
+🔗 [Conhecer o zFinanças](https://github.com/marcoandreotti/zFinancas)
+
+---
+
+### 🏗️ Innovation Gateway
+
+**Arquitetura de Software | .NET | Start-Project**
+
+Projeto demonstrativo concebido como ponto de partida
+para soluções corporativas em .NET.
+
+Apresenta uma estrutura arquitetural de referência,
+com foco na organização de responsabilidades e
+na aplicação de conceitos como:
+
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- CQRS
+- SOLID
+- Separação de responsabilidades
+
+**Importante:** Trata-se de um projeto de referência
+e demonstração arquitetural, não de um produto finalizado.
+
+🔗 [Conhecer o Innovation Gateway](https://github.com/marcoandreotti/Innovation-Gateway)
+
+---
+
+## 🤖 Inteligência Artificial no Desenvolvimento
+
+Nos meus estudos e projetos, exploro a utilização
+de Inteligência Artificial como apoio à Engenharia
+de Software.
+
+**Principais temas:**
+
+- AI Agents e fluxos de trabalho com agentes.
+- Agent Skills e instruções reutilizáveis.
+- Context Engineering e Prompt Engineering.
+- Spec-Driven Development com OpenSpec.
+- Desenvolvimento assistido por IA.
+- Documentação e organização do conhecimento.
+- Automação de atividades de engenharia.
+
+Acredito na combinação de **experiência técnica,
+arquitetura sólida e Inteligência Artificial**
+para desenvolver soluções de qualidade.
 
 ---
 
@@ -207,7 +278,6 @@ Experiência na evolução de aplicações empresariais, com foco em organizaç�
 > As estatísticas representam a atividade analisada nos repositórios e não refletem toda a experiência profissional.
 
 ---
-
 ## 🤝 Vamos nos conectar?
 
 Tenho interesse em compartilhar conhecimentos, trocar experiências e colaborar em iniciativas relacionadas a:
